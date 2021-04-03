@@ -1,0 +1,57 @@
+D:\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe.config
+D:\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe
+D:\PFSFOC\PFSFOC\bin\Debug\PFSFOC.pdb
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csprojAssemblyReference.cache
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Properties.Resources.resources
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.GenerateResource.cache
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.CoreCompileInputs.cache
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.exe
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.pdb
+D:\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Form1.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe.config
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\bin\Debug\PFSFOC.pdb
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csprojAssemblyReference.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Form1.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Properties.Resources.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.GenerateResource.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.CoreCompileInputs.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.exe
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.pdb
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AuthorizationForm.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\KWORK 17582852\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AdminForm.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe.config
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.pdb
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csprojAssemblyReference.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AdminForm.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AuthorizationForm.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Form1.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Properties.Resources.resources
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.GenerateResource.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.CoreCompileInputs.cache
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.exe
+D:\YandexDisk\РАБОТА ПРОГРАММЫ\KWORK Заказ №17582852\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.pdb
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe.config
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.pdb
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AdminForm.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AuthorizationForm.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Form1.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Properties.Resources.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.GenerateResource.cache
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.CoreCompileInputs.cache
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.exe
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ (1)\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.pdb
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe.config
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.exe
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\bin\Debug\PFSFOC.pdb
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AdminForm.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.AuthorizationForm.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Form1.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.Properties.Resources.resources
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.GenerateResource.cache
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csproj.CoreCompileInputs.cache
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.exe
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.pdb
+C:\Users\arace\OneDrive\Рабочий стол\Конечный ПРОЕКТ\PFSFOC\PFSFOC\obj\Debug\PFSFOC.csprojAssemblyReference.cache
