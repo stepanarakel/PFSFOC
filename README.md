@@ -1,5 +1,5 @@
 # PFSFOC
- Programm For Search Fiber Optic Cables (PFSFOC)
+ Program For Search Fiber Optic Cables (PFSFOC)
 
  The project for the final qualification work. 
  
